@@ -15,6 +15,13 @@ Repositorio personal para las entregas individuales del curso **TC4016 - Ingenie
 
 > Las actividades en equipo se gestionan en un repositorio separado, creado en la Semana 3.
 
+## 📧 Correo institucional
+
+Se añadio el correo institucional según las indicaciones de la actividad
+
+<img width="970" height="286" alt="Screenshot 2026-09-16 at 10 54 32 p m" src="https://github.com/user-attachments/assets/14577bb5-9c78-4eb6-9a97-be6f873fe90c" />
+
+
 ## 🗂️ Estructura
 Por lo pronto la estructura es de prueba en tanto no se envíe el link con la invitación a la organización
 
